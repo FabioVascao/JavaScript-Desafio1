@@ -1,4 +1,4 @@
-# Desafio Recriando Layout
+# Desafio Exercício 01
 
 Desafio do Stage04 que faz parte do Programa Explorer da Rocketseat<br/> 
 
